@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T12:12:44 IST" name="Suite" finished-at="2023-03-08T12:14:22 IST" duration-ms="98291">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T12:12:44 IST" name="Test" finished-at="2023-03-08T12:14:22 IST" duration-ms="98291">
+      <class name="dockerValidation.chromeTest5">
+        <test-method signature="case1()[pri:0, instance:dockerValidation.chromeTest5@55183b20]" started-at="2023-03-08T12:13:19 IST" name="case1" finished-at="2023-03-08T12:14:04 IST" duration-ms="45484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+      </class> <!-- dockerValidation.chromeTest5 -->
+      <class name="dockerValidation.chromeTest1">
+        <test-method is-config="true" signature="startDockerScale()[pri:0, instance:dockerValidation.chromeTest1@59662a0b]" started-at="2023-03-08T12:12:44 IST" name="startDockerScale" finished-at="2023-03-08T12:13:19 IST" duration-ms="34679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDockerScale -->
+        <test-method signature="case1()[pri:0, instance:dockerValidation.chromeTest1@59662a0b]" started-at="2023-03-08T12:13:19 IST" name="case1" finished-at="2023-03-08T12:13:51 IST" duration-ms="31707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+        <test-method is-config="true" signature="stopDockerDeleteFile()[pri:0, instance:dockerValidation.chromeTest1@59662a0b]" started-at="2023-03-08T12:14:04 IST" name="stopDockerDeleteFile" finished-at="2023-03-08T12:14:22 IST" duration-ms="18056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDockerDeleteFile -->
+      </class> <!-- dockerValidation.chromeTest1 -->
+      <class name="dockerValidation.chromeTest2">
+        <test-method signature="case1()[pri:0, instance:dockerValidation.chromeTest2@1bd4fdd]" started-at="2023-03-08T12:13:19 IST" name="case1" finished-at="2023-03-08T12:14:01 IST" duration-ms="41670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+      </class> <!-- dockerValidation.chromeTest2 -->
+      <class name="dockerValidation.chromeTest3">
+        <test-method signature="case1()[pri:0, instance:dockerValidation.chromeTest3@4f83df68]" started-at="2023-03-08T12:13:19 IST" name="case1" finished-at="2023-03-08T12:13:51 IST" duration-ms="31707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+      </class> <!-- dockerValidation.chromeTest3 -->
+      <class name="dockerValidation.chromeTest4">
+        <test-method signature="case1()[pri:0, instance:dockerValidation.chromeTest4@6cf0e0ba]" started-at="2023-03-08T12:13:19 IST" name="case1" finished-at="2023-03-08T12:13:51 IST" duration-ms="31677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+      </class> <!-- dockerValidation.chromeTest4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

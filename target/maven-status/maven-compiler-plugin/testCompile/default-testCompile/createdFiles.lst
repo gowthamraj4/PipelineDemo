@@ -1,0 +1,10 @@
+dockerValidation\chromeTest5.class
+dockerValidation\timeing.class
+dockerValidation\chromeTest2.class
+dockerValidation\chromeTest4.class
+dockerValidation\startDocker.class
+dockerValidation\stopDocker.class
+dockerValidation\chromeTest3.class
+dockerValidation\chromeTest1.class
+dockerValidation\chromStandaloneTest.class
+dockerValidation\DeleteOutput.class
