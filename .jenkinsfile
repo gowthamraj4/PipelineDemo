@@ -1,21 +1,22 @@
 pipeline
 {
-agent any
-stages
-{
-stage{'DockerValidation')
-{
-steps
-{
-bat "mvn clean"
-}
-}
-stage{'java2json')
-{
-steps
-{
-bat "mvn clean"
-}
-}
-}
+  agent any
+  
+	stages
+	{
+	  stage('DockerValidation')
+	  {
+		steps
+		{
+			bat "mvn clean"
+		}
+	  }
+	  stage{'java2json')
+	  {
+		steps
+		{
+			bat "mvn clean"
+		}
+	  }
+	}
 }
