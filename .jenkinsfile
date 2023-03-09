@@ -11,7 +11,7 @@ pipeline
 			bat "mvn clean"
 		}
 	  }
-	  stage{'java2json')
+	  stage('java2json')
 	  {
 		steps
 		{
